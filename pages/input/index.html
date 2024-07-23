@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Zoo Land</title>
+    <style>
+      body {
+        background-color: #d6bd98;
+      }
+      #title {
+        color: #40534c;
+        text-align: center;
+        font-size: 50px;
+      }
+      .container {
+        background-color: #677d6a;
+        padding: 30px;
+        width: 50%;
+        height: 330px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 2);
+      }
+      #form {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+      }
+      #upbutton {
+        background-color: #40534c;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        transition: 0.3s;
+        margin-top: 20px;
+        display: flex;
+      }
+      #upbutton:hover {
+        background-color: #1a3636;
+      }
+      #photobox {
+        background-color: #40534c;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+        height: 60%;
+        margin: 0px;
+        margin-top: 20px;
+        padding: 15px;
+        padding-bottom: 40px;
+        border-radius: 5px;
+      }
+      #photo {
+        display: grid;
+        place-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="title">Zoo Land</h1>
+    <div class="container">
+      <div id="form" onclick="">
+        <div id="photobox">
+          <img
+            id="photo"
+            src="../../assets/downIcon.png"
+            alt=""
+            height="150px"
+            onclick=""
+          />
+        </div>
+        <input id="upbutton" type="button" value="Check Image" />
+      </div>
+    </div>
+  </body>
+</html>
