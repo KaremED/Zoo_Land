@@ -1,15 +1,16 @@
 from typing import Union
 
-from fastapi import FastAPI
+from fastapi import FastAPI, UploadFile, File
 
-app = FastAPI()
-
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
+app = FastAPI(
+    root_path="/zoo_land"
+)
 
 
-@app.get("/items/{item_id}")
-def read_item(item_id: int, q: Union[str, None] = None):
-    return {"item_id": item_id, "q": q}
+@app.post("/process/image")
+async def process_image(file: UploadFile = File(...)):
+    contents = await file.read()
+
+    ## add the image processing here
+
+
