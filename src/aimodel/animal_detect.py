@@ -19,7 +19,7 @@ class AnimalDetect:
         img_array = preprocess_input(img_array)
         preds = self.model.predict(img_array)
         label = decode_predictions(preds)
-
+        
         return label[0][0]
 
 
