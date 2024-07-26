@@ -8,21 +8,32 @@
     <title>Zoo Land</title>
     <script></script>
     <style>
+      * {
+        box-sizing: border-box;
+      }
       body {
         background-color: #d6bd98;
+        margin: 0;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
       }
       #title {
         color: #40534c;
         text-align: center;
         font-size: 50px;
       }
+      .main-box {
+        display: flex;
+        flex: 1;
+      }
       .container {
+        position: relative;
         background-color: #677d6a;
-        padding: 30px;
-        width: 50%;
-        height: 330px;
-        margin-left: auto;
-        margin-right: auto;
+        width: 800px;
+        height: 500px;
+        margin: auto;
         margin-top: 20px;
         border-radius: 5px;
         box-shadow: 0 0 15px rgba(0, 0, 0, 2);
@@ -46,43 +57,50 @@
         background-color: #1a3636;
       }
       #photobox {
+        margin-top: 50px;
         background-color: #40534c;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 50%;
-        height: 60%;
-        margin: 0px;
-        margin-top: 20px;
-        padding: 15px;
-        padding-bottom: 40px;
-        border-radius: 5px;
+        padding: 30px;
       }
       #photo {
-        display: grid;
-        place-content: center;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+      }
+      #undoicon {
+        position: absolute;
+        left: 0;
       }
     </style>
   </head>
   <body>
     <h1 id="title">Zoo Land</h1>
-    <div class="container">
-      <div id="form" onclick="">
-        <div id="photobox">
+    <div class="main-box">
+      <div class="container">
+        <div id="form">
+          <div id="photobox">
+            <img
+              id="photo"
+              src="../../assets/downIcon.png"
+              alt=""
+              height="150px"
+              onclick=""
+            />
+          </div>
+          <input
+            id="upbutton"
+            type="button"
+            value="Check Image"
+            onclick="window.alert(5 + 6);"
+          />
+
           <img
-            id="photo"
-            src="../../assets/downIcon.png"
-            alt=""
-            height="150px"
+            id="undoicon"
+            height="50px"
             onclick=""
+            src="../../assets/undopic.png"
+            alt=""
           />
         </div>
-        <input
-          id="upbutton"
-          type="button"
-          value="Check Image"
-          onclick="window.alert(5 + 6);"
-        />
       </div>
     </div>
   </body>
