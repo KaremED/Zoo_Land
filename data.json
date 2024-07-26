@@ -1,0 +1,1218 @@
+{
+  "Chihuahua": {
+    "type": "Domestic Dogs",
+    "description": "A small breed of dog known for its compact size and large ears."
+  },
+  "Japanese spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A small, elegant dog breed known for its distinctive pushed-in face."
+  },
+  "Maltese dog": {
+    "type": "Domestic Dogs",
+    "description": "A toy breed known for its long, silky white coat."
+  },
+  "Pekinese": {
+    "type": "Domestic Dogs",
+    "description": "A small, lion-like dog breed with a flat face and long fur."
+  },
+  "Shih-Tzu": {
+    "type": "Domestic Dogs",
+    "description": "A toy breed known for its long, flowing double coat."
+  },
+  "Blenheim spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A variety of the Cavalier King Charles Spaniel known for its chestnut and white coloring."
+  },
+  "Papillon": {
+    "type": "Domestic Dogs",
+    "description": "A small dog breed known for its butterfly-like ears."
+  },
+  "Toy terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small, energetic breed of terrier."
+  },
+  "Rhodesian ridgeback": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for the distinctive ridge of hair along its back."
+  },
+  "Afghan hound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its long, flowing coat and elegant appearance."
+  },
+  "Basset hound": {
+    "type": "Domestic Dogs",
+    "description": "A short-legged breed known for its long ears and droopy eyes."
+  },
+  "Beagle": {
+    "type": "Domestic Dogs",
+    "description": "A small to medium-sized breed known for its excellent sense of smell."
+  },
+  "Bloodhound": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its exceptional tracking abilities."
+  },
+  "Bluetick": {
+    "type": "Domestic Dogs",
+    "description": "A breed of coonhound known for its blue-colored coat with black ticking."
+  },
+  "Black-and-tan coonhound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its black and tan coloration and hunting skills."
+  },
+  "Walker hound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its speed and endurance in hunting."
+  },
+  "English foxhound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its stamina and hunting abilities."
+  },
+  "Redbone": {
+    "type": "Domestic Dogs",
+    "description": "A breed of coonhound known for its reddish-brown coat."
+  },
+  "Borzoi": {
+    "type": "Domestic Dogs",
+    "description": "A Russian breed known for its long, silky coat and graceful appearance."
+  },
+  "Irish wolfhound": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its height and gentle temperament."
+  },
+  "Italian greyhound": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its slender build and speed."
+  },
+  "Whippet": {
+    "type": "Domestic Dogs",
+    "description": "A medium-sized breed known for its speed and sleek appearance."
+  },
+  "Ibizan hound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its erect ears and hunting skills."
+  },
+  "Norwegian elkhound": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its hunting abilities and thick, double coat."
+  },
+  "Otterhound": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its shaggy coat and otter hunting skills."
+  },
+  "Saluki": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its elegance and speed."
+  },
+  "Scottish deerhound": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its hunting abilities and rough coat."
+  },
+  "Weimaraner": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its distinctive gray coat and hunting skills."
+  },
+  "Staffordshire bullterrier": {
+    "type": "Domestic Dogs",
+    "description": "A medium-sized breed known for its strength and loyalty."
+  },
+  "American Staffordshire terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its muscular build and friendly nature."
+  },
+  "Bedlington terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its unique, lamb-like appearance."
+  },
+  "Border terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its wiry coat and hunting skills."
+  },
+  "Kerry blue terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its blue-colored coat and versatility."
+  },
+  "Irish terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its red coat and spirited personality."
+  },
+  "Norfolk terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its friendly nature and hunting skills."
+  },
+  "Norwich terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its affectionate nature and hunting skills."
+  },
+  "Yorkshire terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its long, silky coat and confident personality."
+  },
+  "Wire-haired fox terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its distinctive wire-haired coat and energetic nature."
+  },
+  "Lakeland terrier": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its bold personality and hunting skills."
+  },
+  "Sealyham terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its white coat and playful nature."
+  },
+  "Airedale terrier": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its versatility and intelligence."
+  },
+  "Cairn terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its rough coat and spirited nature."
+  },
+  "Australian terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its blue and tan coat and lively personality."
+  },
+  "Dandie Dinmont": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its distinctive topknot and affectionate nature."
+  },
+  "Boston bull": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its tuxedo-like markings and friendly personality."
+  },
+  "Miniature schnauzer": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its distinctive beard and eyebrows."
+  },
+  "Giant schnauzer": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its strength and protective nature."
+  },
+  "Standard schnauzer": {
+    "type": "Domestic Dogs",
+    "description": "A medium-sized breed known for its versatility and intelligence."
+  },
+  "Scotch terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its distinctive beard and feisty personality."
+  },
+  "Tibetan terrier": {
+    "type": "Domestic Dogs",
+    "description": "A medium-sized breed known for its long coat and friendly nature."
+  },
+  "Silky terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its silky, blue and tan coat."
+  },
+  "Soft-coated wheaten terrier": {
+    "type": "Domestic Dogs",
+    "description": "A medium-sized breed known for its soft, wavy coat."
+  },
+  "West Highland white terrier": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its white coat and confident personality."
+  },
+  "Lhasa": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its long, flowing coat."
+  },
+  "Flat-coated retriever": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its glossy black coat and friendly nature."
+  },
+  "Curly-coated retriever": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its distinctive curly coat."
+  },
+  "Golden retriever": {
+    "type": "Domestic Dogs",
+    "description": "A popular breed known for its friendly and tolerant attitude."
+  },
+  "Labrador retriever": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its friendly nature and versatility."
+  },
+  "Chesapeake Bay retriever": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its waterproof coat and hunting abilities."
+  },
+  "German short-haired pointer": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its hunting skills and versatility."
+  },
+  "Vizsla": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its sleek, golden-rust coat and hunting abilities."
+  },
+  "English setter": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its elegant appearance and hunting skills."
+  },
+  "Irish setter": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its beautiful red coat and friendly nature."
+  },
+  "Gordon setter": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its black and tan coat and hunting skills."
+  },
+  "Brittany spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its hunting skills and friendly nature."
+  },
+  "Clumber spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its heavy build and gentle nature."
+  },
+  "English springer": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its hunting skills and friendly nature."
+  },
+  "Welsh springer spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its red and white coat and hunting skills."
+  },
+  "Cocker spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its long ears and friendly nature."
+  },
+  "Sussex spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its low build and golden-liver coat."
+  },
+  "Irish water spaniel": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its curly coat and versatility."
+  },
+  "Kuvasz": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its white coat and protective nature."
+  },
+  "Schipperke": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its fox-like appearance and lively personality."
+  },
+  "Groenendael": {
+    "type": "Domestic Dogs",
+    "description": "A variety of Belgian Shepherd known for its long, black coat."
+  },
+  "Malinois": {
+    "type": "Domestic Dogs",
+    "description": "A variety of Belgian Shepherd known for its short coat and versatility."
+  },
+  "Briard": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its long, flowing coat and protective nature."
+  },
+  "Kelpie": {
+    "type": "Domestic Dogs",
+    "description": "An Australian breed known for its herding abilities."
+  },
+  "Komondor": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its distinctive corded coat."
+  },
+  "Old English sheepdog": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its long, shaggy coat and friendly nature."
+  },
+  "Shetland sheepdog": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its herding abilities and long coat."
+  },
+  "Collie": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its intelligence and herding abilities."
+  },
+  "Border collie": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its intelligence and excellent herding skills."
+  },
+  "Bouvier des Flandres": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its herding and guarding abilities."
+  },
+  "Rottweiler": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its strength and protective nature."
+  },
+  "German shepherd": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its intelligence and versatility."
+  },
+  "Doberman": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its strength, loyalty, and protective nature."
+  },
+  "Miniature pinscher": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its energetic personality."
+  },
+  "Greater Swiss Mountain dog": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its strength and versatility."
+  },
+  "Bernese mountain dog": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its tricolored coat and gentle nature."
+  },
+  "Appenzeller": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its herding abilities and agility."
+  },
+  "EntleBucher": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its herding abilities and small size."
+  },
+  "Boxer": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its strength, agility, and playful nature."
+  },
+  "Bull mastiff": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its strength and guarding abilities."
+  },
+  "Tibetan mastiff": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its thick coat and protective nature."
+  },
+  "French bulldog": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its distinctive bat-like ears and friendly personality."
+  },
+  "Great Dane": {
+    "type": "Domestic Dogs",
+    "description": "A giant breed known for its height and gentle nature."
+  },
+  "Saint Bernard": {
+    "type": "Domestic Dogs",
+    "description": "A giant breed known for its strength and rescue abilities."
+  },
+  "Eskimo dog": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its thick coat and friendly nature."
+  },
+  "Malamute": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its strength and endurance."
+  },
+  "Siberian husky": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its endurance, friendly nature, and striking appearance."
+  },
+  "Dalmatian": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its distinctive spotted coat."
+  },
+  "Affenpinscher": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its monkey-like facial expression."
+  },
+  "Basenji": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its yodel-like vocalizations."
+  },
+  "Pug": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its wrinkled face and curled tail."
+  },
+  "Leonberg": {
+    "type": "Domestic Dogs",
+    "description": "A giant breed known for its strength and friendly nature."
+  },
+  "Newfoundland": {
+    "type": "Domestic Dogs",
+    "description": "A giant breed known for its strength and swimming abilities."
+  },
+  "Great Pyrenees": {
+    "type": "Domestic Dogs",
+    "description": "A large breed known for its protective nature and thick white coat."
+  },
+  "Samoyed": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its friendly nature and thick, white coat."
+  },
+  "Pomeranian": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its fluffy coat and lively personality."
+  },
+  "Chow": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its distinctive blue-black tongue and lion-like mane."
+  },
+  "Keeshond": {
+    "type": "Domestic Dogs",
+    "description": "A breed known for its fox-like face and friendly nature."
+  },
+  "Brabancon griffon": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its distinctive facial expression."
+  },
+  "Pembroke": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its short legs and herding abilities."
+  },
+  "Cardigan": {
+    "type": "Domestic Dogs",
+    "description": "A small breed known for its long body and herding abilities."
+  },
+  "Lion": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its majestic mane and social behavior."
+  },
+  "Tiger": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its striped coat and powerful build."
+  },
+  "Leopard": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its spotted coat and climbing abilities."
+  },
+  "Snow leopard": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its thick fur and ability to live in cold environments."
+  },
+  "Jaguar": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its powerful build and spotted coat."
+  },
+  "Cheetah": {
+    "type": "Wild Cats",
+    "description": "A large wild cat known for its speed and slender build."
+  },
+  "Lynx": {
+    "type": "Wild Cats",
+    "description": "A medium-sized wild cat known for its tufted ears and short tail."
+  },
+  "Caracal": {
+    "type": "Wild Cats",
+    "description": "A medium-sized wild cat known for its distinctive ear tufts."
+  },
+  "Serval": {
+    "type": "Wild Cats",
+    "description": "A medium-sized wild cat known for its long legs and large ears."
+  },
+  "Persian cat": {
+    "type": "Domestic Cats",
+    "description": "A domestic cat breed known for its long, luxurious coat and flat face."
+  },
+  "Siamese cat": {
+    "type": "Domestic Cats",
+    "description": "A domestic cat breed known for its striking blue eyes and vocal nature."
+  },
+  "Koala": {
+    "type": "Other Mammals",
+    "description": "A marsupial known for its tree-dwelling habits and eucalyptus diet."
+  },
+  "Panda": {
+    "type": "Other Mammals",
+    "description": "A bear known for its distinctive black and white markings and bamboo diet."
+  },
+  "Elephant (African and Asian)": {
+    "type": "Other Mammals",
+    "description": "A large mammal known for its trunk and tusks."
+  },
+  "Hippo": {
+    "type": "Other Mammals",
+    "description": "A large, semi-aquatic mammal known for its massive size and large mouth."
+  },
+  "Rhinoceros (black and white)": {
+    "type": "Other Mammals",
+    "description": "A large mammal known for its thick skin and horned snout."
+  },
+  "Hedgehog": {
+    "type": "Other Mammals",
+    "description": "A small mammal known for its spiny coat."
+  },
+  "Platypus": {
+    "type": "Other Mammals",
+    "description": "A unique mammal known for its duck-bill and egg-laying."
+  },
+  "Echidna": {
+    "type": "Other Mammals",
+    "description": "A spiny mammal known for its egg-laying abilities."
+  },
+  "Kangaroo": {
+    "type": "Other Mammals",
+    "description": "A marsupial known for its powerful hind legs and pouch."
+  },
+  "Wallaby": {
+    "type": "Other Mammals",
+    "description": "A small marsupial similar to a kangaroo."
+  },
+  "Wombat": {
+    "type": "Other Mammals",
+    "description": "A burrowing marsupial known for its sturdy build."
+  },
+  "Sloth": {
+    "type": "Other Mammals",
+    "description": "A slow-moving tree-dwelling mammal."
+  },
+  "Armadillo": {
+    "type": "Other Mammals",
+    "description": "A mammal known for its armored shell."
+  },
+  "Anteater": {
+    "type": "Other Mammals",
+    "description": "A mammal known for its long snout and diet of ants and termites."
+  },
+  "Porcupine": {
+    "type": "Other Mammals",
+    "description": "A mammal known for its spiny quills."
+  },
+  "Skunk": {
+    "type": "Other Mammals",
+    "description": "A mammal known for its ability to spray a foul-smelling liquid."
+  },
+  "Badger": {
+    "type": "Other Mammals",
+    "description": "A burrowing mammal known for its aggressive nature."
+  },
+  "Mongoose": {
+    "type": "Other Mammals",
+    "description": "A small mammal known for its agility and ability to fight snakes."
+  },
+  "Meerkat": {
+    "type": "Other Mammals",
+    "description": "A small mammal known for its social behavior and upright posture."
+  },
+  "Ferret": {
+    "type": "Other Mammals",
+    "description": "A small, domesticated mammal known for its playful nature."
+  },
+  "Otter": {
+    "type": "Other Mammals",
+    "description": "A semi-aquatic mammal known for its playful behavior."
+  },
+  "Beaver": {
+    "type": "Other Mammals",
+    "description": "A large rodent known for its dam-building abilities."
+  },
+  "Capuchin": {
+    "type": "Other Mammals",
+    "description": "A small monkey known for its intelligence and agility."
+  },
+  "Howler monkey": {
+    "type": "Other Mammals",
+    "description": "A large monkey known for its loud howling calls."
+  },
+  "Baboon": {
+    "type": "Other Mammals",
+    "description": "A large monkey known for its powerful build and social behavior."
+  },
+  "Macaque": {
+    "type": "Other Mammals",
+    "description": "A medium-sized monkey known for its adaptability to various environments."
+  },
+  "Gibbon": {
+    "type": "Other Mammals",
+    "description": "A small ape known for its long arms and acrobatic movements."
+  },
+  "Orangutan": {
+    "type": "Other Mammals",
+    "description": "A large ape known for its reddish-brown fur and intelligence."
+  },
+  "Gorilla": {
+    "type": "Other Mammals",
+    "description": "A large ape known for its strength and gentle nature."
+  },
+  "Chimpanzee": {
+    "type": "Other Mammals",
+    "description": "A large ape known for its intelligence and social behavior."
+  },
+  "Macaw": {
+    "type": "Parrots",
+    "description": "A large parrot known for its bright plumage and intelligence."
+  },
+  "Cockatoo": {
+    "type": "Parrots",
+    "description": "A large parrot known for its distinctive crest and vocalizations."
+  },
+  "Cockatiel": {
+    "type": "Parrots",
+    "description": "A small parrot known for its crest and friendly nature."
+  },
+  "Bald eagle": {
+    "type": "Birds of Prey",
+    "description": "A large bird of prey known for its white head and powerful build."
+  },
+  "Vulture": {
+    "type": "Birds of Prey",
+    "description": "A bird of prey known for its scavenging habits."
+  },
+  "Kite": {
+    "type": "Birds of Prey",
+    "description": "A bird of prey known for its graceful flight."
+  },
+  "Hawk": {
+    "type": "Birds of Prey",
+    "description": "A bird of prey known for its sharp talons and keen eyesight."
+  },
+  "Falcon": {
+    "type": "Birds of Prey",
+    "description": "A bird of prey known for its speed and hunting skills."
+  },
+  "Swan": {
+    "type": "Waterfowl",
+    "description": "A large waterfowl known for its graceful appearance and white plumage."
+  },
+  "Goose": {
+    "type": "Waterfowl",
+    "description": "A large waterfowl known for its migratory habits and vocalizations."
+  },
+  "Duck": {
+    "type": "Waterfowl",
+    "description": "A waterfowl known for its broad bill and webbed feet."
+  },
+  "Owl": {
+    "type": "Other Birds",
+    "description": "A bird known for its nocturnal habits and distinctive call."
+  },
+  "Penguin": {
+    "type": "Other Birds",
+    "description": "A flightless bird known for its distinctive black and white plumage."
+  },
+  "Albatross": {
+    "type": "Other Birds",
+    "description": "A large seabird known for its long wingspan and oceanic habits."
+  },
+  "Pelican": {
+    "type": "Other Birds",
+    "description": "A large water bird known for its distinctive pouch."
+  },
+  "Cormorant": {
+    "type": "Other Birds",
+    "description": "A water bird known for its diving abilities."
+  },
+  "Stork": {
+    "type": "Other Birds",
+    "description": "A large wading bird known for its long legs and neck."
+  },
+  "Crane": {
+    "type": "Other Birds",
+    "description": "A tall, long-legged bird known for its elaborate dances."
+  },
+  "Flamingo": {
+    "type": "Other Birds",
+    "description": "A wading bird known for its pink plumage and long legs."
+  },
+  "Heron": {
+    "type": "Other Birds",
+    "description": "A long-legged wading bird known for its hunting skills."
+  },
+  "Spoonbill": {
+    "type": "Other Birds",
+    "description": "A wading bird known for its distinctive spoon-shaped bill."
+  },
+  "Ibis": {
+    "type": "Other Birds",
+    "description": "A wading bird known for its long, curved bill."
+  },
+  "Egret": {
+    "type": "Other Birds",
+    "description": "A wading bird known for its elegant white plumage."
+  },
+  "Bittern": {
+    "type": "Other Birds",
+    "description": "A wading bird known for its camouflaged plumage and booming call."
+  },
+  "Puffin": {
+    "type": "Other Birds",
+    "description": "A seabird known for its colorful beak and diving abilities."
+  },
+  "Hornbill": {
+    "type": "Other Birds",
+    "description": "A bird known for its large bill and casque."
+  },
+  "Toucan": {
+    "type": "Other Birds",
+    "description": "A bird known for its large, colorful bill."
+  },
+  "Hummingbird": {
+    "type": "Other Birds",
+    "description": "A small bird known for its rapid wingbeats and ability to hover."
+  },
+  "Kingfisher": {
+    "type": "Other Birds",
+    "description": "A bird known for its striking plumage and fishing skills."
+  },
+  "Woodpecker": {
+    "type": "Other Birds",
+    "description": "A bird known for its drumming behavior and strong bill."
+  },
+  "Sparrow": {
+    "type": "Other Birds",
+    "description": "A small, social bird known for its adaptability."
+  },
+  "Robin": {
+    "type": "Other Birds",
+    "description": "A small bird known for its red breast and melodious song."
+  },
+  "Bluebird": {
+    "type": "Other Birds",
+    "description": "A small bird known for its blue plumage and cheerful song."
+  },
+  "Warbler": {
+    "type": "Other Birds",
+    "description": "A small, insect-eating bird known for its melodious song."
+  },
+  "Starling": {
+    "type": "Other Birds",
+    "description": "A social bird known for its iridescent plumage and mimicking abilities."
+  },
+  "Blackbird": {
+    "type": "Other Birds",
+    "description": "A bird known for its black plumage and melodious song."
+  },
+  "Jay": {
+    "type": "Other Birds",
+    "description": "A bird known for its bold plumage and loud calls."
+  },
+  "Magpie": {
+    "type": "Other Birds",
+    "description": "A bird known for its black and white plumage and intelligence."
+  },
+  "Crow": {
+    "type": "Other Birds",
+    "description": "A bird known for its all-black plumage and intelligence."
+  },
+  "Raven": {
+    "type": "Other Birds",
+    "description": "A large bird known for its black plumage and intelligence."
+  },
+  "Partridge": {
+    "type": "Other Birds",
+    "description": "A game bird known for its distinctive call and behavior."
+  },
+  "Pheasant": {
+    "type": "Other Birds",
+    "description": "A game bird known for its colorful plumage and long tail."
+  },
+  "Quail": {
+    "type": "Other Birds",
+    "description": "A small game bird known for its distinctive call."
+  },
+  "Grouse": {
+    "type": "Other Birds",
+    "description": "A game bird known for its cryptic plumage and courtship displays."
+  },
+  "Turkey": {
+    "type": "Other Birds",
+    "description": "A large bird known for its fan-shaped tail and wattled neck."
+  },
+  "Peafowl": {
+    "type": "Other Birds",
+    "description": "A bird known for the male's colorful plumage and elaborate courtship display."
+  },
+  "Ostrich": {
+    "type": "Other Birds",
+    "description": "A large, flightless bird known for its long neck and legs."
+  },
+  "Emu": {
+    "type": "Other Birds",
+    "description": "A large, flightless bird known for its long neck and legs."
+  },
+  "Kiwi": {
+    "type": "Other Birds",
+    "description": "A small, flightless bird known for its long beak and nocturnal habits."
+  },
+  "Python": {
+    "type": "Snakes",
+    "description": "A large, non-venomous snake known for its constricting abilities."
+  },
+  "Boa constrictor": {
+    "type": "Snakes",
+    "description": "A large, non-venomous snake known for its constricting abilities."
+  },
+  "Anaconda": {
+    "type": "Snakes",
+    "description": "A large, non-venomous snake known for its size and aquatic habits."
+  },
+  "Rattlesnake": {
+    "type": "Snakes",
+    "description": "A venomous snake known for its distinctive rattle."
+  },
+  "Cobra": {
+    "type": "Snakes",
+    "description": "A venomous snake known for its hood and intimidating display."
+  },
+  "Viper": {
+    "type": "Snakes",
+    "description": "A venomous snake known for its long, hinged fangs."
+  },
+  "Coral snake": {
+    "type": "Snakes",
+    "description": "A small, venomous snake known for its brightly colored bands."
+  },
+  "Iguana": {
+    "type": "Lizards",
+    "description": "A large lizard known for its spiny crest and herbivorous diet."
+  },
+  "Chameleon": {
+    "type": "Lizards",
+    "description": "A lizard known for its ability to change color and its long tongue."
+  },
+  "Gecko": {
+    "type": "Lizards",
+    "description": "A small lizard known for its vocalizations and sticky toe pads."
+  },
+  "Komodo dragon": {
+    "type": "Lizards",
+    "description": "A large, carnivorous lizard known for its size and strength."
+  },
+  "Skink": {
+    "type": "Lizards",
+    "description": "A lizard known for its smooth, shiny scales."
+  },
+  "Sea turtle": {
+    "type": "Turtles and Tortoises",
+    "description": "A large marine turtle known for its migratory habits."
+  },
+  "Box turtle": {
+    "type": "Turtles and Tortoises",
+    "description": "A small turtle known for its hinged shell."
+  },
+  "Snapping turtle": {
+    "type": "Turtles and Tortoises",
+    "description": "A large, aggressive turtle known for its powerful bite."
+  },
+  "Painted turtle": {
+    "type": "Turtles and Tortoises",
+    "description": "A small, colorful turtle found in freshwater habitats."
+  },
+  "Red-eared slider": {
+    "type": "Turtles and Tortoises",
+    "description": "A popular pet turtle known for the red markings near its ears."
+  },
+  "Tortoise": {
+    "type": "Turtles and Tortoises",
+    "description": "A land-dwelling reptile known for its domed shell."
+  },
+  "Great white shark": {
+    "type": "Sharks",
+    "description": "A large predatory shark known for its size and power."
+  },
+  "Hammerhead shark": {
+    "type": "Sharks",
+    "description": "A shark known for its distinctive hammer-shaped head."
+  },
+  "Tiger shark": {
+    "type": "Sharks",
+    "description": "A large predatory shark known for its striped body."
+  },
+  "Clownfish": {
+    "type": "Tropical Fish",
+    "description": "A small, colorful fish known for its symbiotic relationship with sea anemones."
+  },
+  "Angelfish": {
+    "type": "Tropical Fish",
+    "description": "A brightly colored fish known for its triangular shape."
+  },
+  "Surgeonfish": {
+    "type": "Tropical Fish",
+    "description": "A colorful fish known for the sharp spines on its tail."
+  },
+  "Butterflyfish": {
+    "type": "Tropical Fish",
+    "description": "A small, brightly colored fish known for its patterned body."
+  },
+  "Triggerfish": {
+    "type": "Tropical Fish",
+    "description": "A brightly colored fish known for its strong jaws and unique dorsal fin."
+  },
+  "Goldfish": {
+    "type": "Other Fish",
+    "description": "A small freshwater fish known for its golden color and popularity as a pet."
+  },
+  "Carp": {
+    "type": "Other Fish",
+    "description": "A large freshwater fish known for its adaptability and significance in aquaculture."
+  },
+  "Catfish": {
+    "type": "Other Fish",
+    "description": "A fish known for its whisker-like barbels and bottom-dwelling habits."
+  },
+  "Eel": {
+    "type": "Other Fish",
+    "description": "A long, snake-like fish known for its slippery body and nocturnal habits."
+  },
+  "Piranha": {
+    "type": "Other Fish",
+    "description": "A freshwater fish known for its sharp teeth and aggressive behavior."
+  },
+  "Salmon": {
+    "type": "Other Fish",
+    "description": "A migratory fish known for its importance in both sport and commercial fishing."
+  },
+  "Trout": {
+    "type": "Other Fish",
+    "description": "A freshwater fish known for its speckled body and popularity in angling."
+  },
+  "Bass": {
+    "type": "Other Fish",
+    "description": "A popular game fish known for its size and strength."
+  },
+  "Perch": {
+    "type": "Other Fish",
+    "description": "A freshwater fish known for its spiny fins and popularity among anglers."
+  },
+  "Pike": {
+    "type": "Other Fish",
+    "description": "A predatory freshwater fish known for its elongated body and sharp teeth."
+  },
+  "Monarch butterfly": {
+    "type": "Butterflies and Moths",
+    "description": "A butterfly known for its orange and black wings and long migratory journey."
+  },
+  "Swallowtail butterfly": {
+    "type": "Butterflies and Moths",
+    "description": "A butterfly known for its distinctive tail-like extensions on its hindwings."
+  },
+  "Moth": {
+    "type": "Butterflies and Moths",
+    "description": "An insect known for its nocturnal habits and diverse forms."
+  },
+  "Ladybug": {
+    "type": "Beetles",
+    "description": "A small beetle known for its red and black-spotted elytra."
+  },
+  "Stag beetle": {
+    "type": "Beetles",
+    "description": "A beetle known for its large mandibles resembling deer antlers."
+  },
+  "Rhinoceros beetle": {
+    "type": "Beetles",
+    "description": "A large beetle known for its horn-like structures on its head."
+  },
+  "Ant": {
+    "type": "Other Insects",
+    "description": "A social insect known for its complex colonies and cooperative behavior."
+  },
+  "Bee": {
+    "type": "Other Insects",
+    "description": "An insect known for its role in pollination and honey production."
+  },
+  "Wasp": {
+    "type": "Other Insects",
+    "description": "An insect known for its narrow waist and often aggressive behavior."
+  },
+  "Dragonfly": {
+    "type": "Other Insects",
+    "description": "An insect known for its aerial agility and predatory behavior."
+  },
+  "Grasshopper": {
+    "type": "Other Insects",
+    "description": "An insect known for its strong hind legs and jumping ability."
+  },
+  "Cricket": {
+    "type": "Other Insects",
+    "description": "An insect known for its chirping sound and long antennae."
+  },
+  "Cockroach": {
+    "type": "Other Insects",
+    "description": "An insect known for its resilience and adaptability."
+  },
+  "Tarantula": {
+    "type": "Spiders",
+    "description": "A large spider known for its hairy body and predatory behavior."
+  },
+  "Black widow": {
+    "type": "Spiders",
+    "description": "A venomous spider known for the red hourglass marking on its abdomen."
+  },
+  "Jumping spider": {
+    "type": "Spiders",
+    "description": "A small spider known for its excellent vision and jumping ability."
+  },
+  "Wolf spider": {
+    "type": "Spiders",
+    "description": "A large spider known for its hunting behavior and speed."
+  },
+  "Bullfrog": {
+    "type": "Frogs and Toads",
+    "description": "A large frog known for its deep, resonant call."
+  },
+  "Tree frog": {
+    "type": "Frogs and Toads",
+    "description": "A small frog known for its climbing abilities and sticky toe pads."
+  },
+  "Poison dart frog": {
+    "type": "Frogs and Toads",
+    "description": "A brightly colored frog known for its toxic skin."
+  },
+  "Toad": {
+    "type": "Frogs and Toads",
+    "description": "An amphibian known for its dry, bumpy skin and terrestrial habits."
+  },
+  "Axolotl": {
+    "type": "Salamanders and Newts",
+    "description": "A neotenic salamander known for its ability to regenerate limbs."
+  },
+  "Newt": {
+    "type": "Salamanders and Newts",
+    "description": "A small amphibian known for its smooth skin and aquatic larvae."
+  },
+  "Salamander": {
+    "type": "Salamanders and Newts",
+    "description": "An amphibian known for its moist skin and often regenerative abilities."
+  },
+  "Blue whale": {
+    "type": "Whales",
+    "description": "The largest animal known to have ever existed."
+  },
+  "Humpback whale": {
+    "type": "Whales",
+    "description": "A whale known for its long pectoral fins and acrobatic breaches."
+  },
+  "Killer whale (Orca)": {
+    "type": "Whales",
+    "description": "A large predatory dolphin known for its black and white coloring."
+  },
+  "Narwhal": {
+    "type": "Whales",
+    "description": "A whale known for its long, spiral tusk."
+  },
+  "Beluga whale": {
+    "type": "Whales",
+    "description": "A small, white whale known for its vocalizations."
+  },
+  "Bottlenose dolphin": {
+    "type": "Dolphins",
+    "description": "A common dolphin known for its intelligence and playful behavior."
+  },
+  "Common dolphin": {
+    "type": "Dolphins",
+    "description": "A dolphin known for its distinctive hourglass pattern."
+  },
+  "Harbor seal": {
+    "type": "Seals",
+    "description": "A small seal known for its spotted coat and playful nature."
+  },
+  "Sea lion": {
+    "type": "Seals",
+    "description": "A large seal known for its external ear flaps and loud barking."
+  },
+  "Walrus": {
+    "type": "Seals",
+    "description": "A large marine mammal known for its tusks and whiskers."
+  },
+  "Cow": {
+    "type": "Cattle",
+    "description": "A domesticated bovine known for its milk production."
+  },
+  "Bull": {
+    "type": "Cattle",
+    "description": "A male bovine known for its strength and role in breeding."
+  },
+  "Domestic pig": {
+    "type": "Pigs",
+    "description": "A domesticated pig known for its meat production."
+  },
+  "Domestic sheep": {
+    "type": "Sheep",
+    "description": "A domesticated sheep known for its wool and meat."
+  },
+  "Domestic goat": {
+    "type": "Goats",
+    "description": "A domesticated goat known for its milk and meat."
+  },
+  "Domestic horse": {
+    "type": "Horses",
+    "description": "A domesticated horse known for its use in riding and work."
+  },
+  "Donkey": {
+    "type": "Horses",
+    "description": "A domesticated equid known for its strength and endurance."
+  },
+  "Mule": {
+    "type": "Horses",
+    "description": "A hybrid of a horse and donkey known for its strength and endurance."
+  },
+  "Chicken": {
+    "type": "Poultry",
+    "description": "A domesticated bird known for its eggs and meat."
+  },
+  "Rooster": {
+    "type": "Poultry",
+    "description": "A male chicken known for its crowing and role in breeding."
+  },
+  "White-tailed deer": {
+    "type": "Deer",
+    "description": "A deer known for its white tail and widespread distribution."
+  },
+  "Mule deer": {
+    "type": "Deer",
+    "description": "A deer known for its large ears and western North American range."
+  },
+  "Elk": {
+    "type": "Deer",
+    "description": "A large deer known for its impressive antlers and bugling call."
+  },
+  "Moose": {
+    "type": "Deer",
+    "description": "A large deer known for its size and distinctive antlers."
+  },
+  "Antelope": {
+    "type": "Other Ungulates",
+    "description": "A fast-running ungulate known for its horns and grazing habits."
+  },
+  "Gazelle": {
+    "type": "Other Ungulates",
+    "description": "A small, swift antelope known for its graceful movements."
+  },
+  "Giraffe": {
+    "type": "Other Ungulates",
+    "description": "A tall ungulate known for its long neck and distinctive coat pattern."
+  },
+  "Camel": {
+    "type": "Other Ungulates",
+    "description": "A large ungulate known for its humps and desert adaptations."
+  },
+  "Llama": {
+    "type": "Other Ungulates",
+    "description": "A South American camelid known for its wool and pack-carrying abilities."
+  },
+  "Squirrel": {
+    "type": "Rodents",
+    "description": "A small rodent known for its bushy tail and tree-dwelling habits."
+  },
+  "Chipmunk": {
+    "type": "Rodents",
+    "description": "A small rodent known for its stripes and burrowing behavior."
+  },
+  "Prairie dog": {
+    "type": "Rodents",
+    "description": "A social rodent known for its burrow colonies and alarm calls."
+  },
+  "Capybara": {
+    "type": "Rodents",
+    "description": "The largest rodent in the world, known for its semi-aquatic habits."
+  },
+  "Guinea pig": {
+    "type": "Rodents",
+    "description": "A small, domesticated rodent known for its use as a pet."
+  },
+  "Hamster": {
+    "type": "Rodents",
+    "description": "A small, burrowing rodent known for its cheek pouches."
+  },
+  "Rat": {
+    "type": "Rodents",
+    "description": "A medium-sized rodent known for its adaptability and intelligence."
+  },
+  "Mouse": {
+    "type": "Rodents",
+    "description": "A small rodent known for its high reproductive rate and adaptability."
+  },
+  "Lemur": {
+    "type": "Primates",
+    "description": "A primate known for its large eyes and nocturnal habits."
+  },
+  "Tamarin": {
+    "type": "Primates",
+    "description": "A small monkey known for its long tail and colorful fur."
+  },
+  "Mandrill": {
+    "type": "Primates",
+    "description": "A large monkey known for its colorful face and large size."
+  }
+}
