@@ -12,6 +12,23 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o
 start /wait "" miniconda.exe /S
 del miniconda.exe
 ```
+## Add conda to your path 
+
+First Detect where /miniconda3/condabin folder is and copy the path
+the defualt directory on windows is-> 
+
+Second do the following:
+1.Open Control Panel -> System and Security -> System (on Windows) or Terminal (on Linux).
+
+2.Navigate to Environment Variables.
+
+3.Edit the “Path” variable under System variables.
+
+4.Add the path to miniconda installation directory.
+
+5.Save the settings.
+
+
 
 ## Create a new environment
 
