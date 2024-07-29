@@ -29,9 +29,9 @@ async def process_image(file: UploadFile = File(...)) -> AnimalInfo:
         value = animal_detect.img_proccess(image)
         return value
     except Exception as e:
-          raise HTTPException(status_code=500, detail=str(e)) 
+          raise HTTPException(status_code=500, detail=str(e))
     
 
     ## add the image processing here
 
-
+#@app.get("/")
