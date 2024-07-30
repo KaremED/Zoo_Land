@@ -407,6 +407,58 @@
     "type": "Domestic Dogs",
     "description": "A small breed known for its monkey-like facial expression."
   },
+    "Red Fox": {
+      "type": "Wild Fox",
+      "description": "The most common and widespread species of fox, known for its reddish-brown fur and bushy tail."
+    },
+    "Arctic Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to Arctic regions, known for its thick, white winter coat and ability to survive in extreme cold."
+    },
+    "Fennec Fox": {
+      "type": "Wild Fox",
+      "description": "The smallest species of fox, native to the Sahara Desert, known for its large ears and sandy fur."
+    },
+    "Gray Fox": {
+      "type": "Wild Fox",
+      "description": "A species of fox found in North and Central America, known for its grizzled gray coat and tree-climbing abilities."
+    },
+    "Swift Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to North America's Great Plains, known for its speed and agility."
+    },
+    "Kit Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to arid regions of North America, known for its large ears and nocturnal habits."
+    },
+    "Corsac Fox": {
+      "type": "Wild Fox",
+      "description": "A medium-sized fox native to the steppes of Central Asia, known for its sandy or grayish coat and social behavior."
+    },
+    "Bengal Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to the Indian subcontinent, known for its reddish-brown fur and bushy tail."
+    },
+    "Tibetan Fox": {
+      "type": "Wild Fox",
+      "description": "A species of fox found in the Tibetan Plateau, known for its square-shaped face and thick fur."
+    },
+    "Pale Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to the Sahel region of Africa, known for its pale, sandy-colored fur and nocturnal habits."
+    },
+    "Rüppell's Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to the deserts of North Africa and the Middle East, known for its large ears and slender build."
+    },
+    "Blanford's Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to the mountainous regions of the Middle East, known for its long, bushy tail and agile climbing abilities."
+    },
+    "Darwin's Fox": {
+      "type": "Wild Fox",
+      "description": "A small fox native to Chile, known for its dark fur and endangered status."
+    },  
   "Basenji": {
     "type": "Domestic Dogs",
     "description": "A small breed known for its yodel-like vocalizations."
