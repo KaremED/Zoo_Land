@@ -1,6 +1,9 @@
+/* Apply box-sizing to all elements */
 * {
   box-sizing: border-box;
 }
+
+/* Body styling */
 body {
   background-color: #d6bd98;
   margin: 0;
@@ -9,15 +12,24 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+/* Title styling */
 #title {
   color: #40534c;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
 }
+
+/* Main box styling */
 .main-box {
   display: flex;
   flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }
+
+/* Container styling */
 .container {
   position: relative;
   background-color: #677d6a;
@@ -28,11 +40,15 @@ body {
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 2);
 }
-#form {
+
+/* Form styling */
+.form {
   align-items: center;
   display: flex;
   flex-direction: column;
 }
+
+/* Button styling */
 #upbutton {
   background-color: #40534c;
   border: none;
@@ -49,7 +65,9 @@ body {
   background-color: #1a3636;
   transform: scale(1.05);
 }
-#photobox {
+
+/* Photobox styling */
+.photobox {
   height: 270px;
   width: 320px;
   margin-top: 50px;
@@ -57,31 +75,50 @@ body {
   border-radius: 5px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   border: 5px solid transparent;
+  cursor: pointer;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
 }
-#photobox:hover {
+#mainPhotobox:hover {
   border: 5px solid #1a3636;
   transform: scale(1.05);
 }
+
+/* Response photobox styling */
+#respPhotobox {
+  cursor: default;
+  height: 200px;
+  width: 270px;
+}
+
+/* Upload image styling */
 #uploadImg {
   width: 150px;
   height: 150px;
   object-fit: cover;
-  cursor: pointer;
   margin: 0;
   padding: 0;
 }
+
+/* Undo icon styling */
 #undoicon {
   position: absolute;
   left: 0;
 }
+#undoicon:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+/* Hidden class styling */
 .hidden {
   display: none;
 }
+
+/* Upload text styling */
 #upText {
   margin: 0;
   padding: 0;
@@ -90,6 +127,29 @@ body {
   font-family: sans-serif;
   font-size: 18px;
 }
+
+/* File input styling */
 #fileInput {
   display: none;
+}
+
+/* Response text styling */
+#responsetext {
+  margin-top: 20px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 18px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  border-block: black;
+  border: 5px solid #1a3636;
+  background-color: #40534c;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+#responsetext p {
+  margin: 10px 0;
+}
+#responsetext strong {
+  color: #d2d79f;
 }
