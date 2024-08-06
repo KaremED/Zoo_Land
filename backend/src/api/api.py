@@ -26,17 +26,17 @@ async def read_css():
 async def read_js():
     return FileResponse("../../frontend/script.js", media_type="application/javascript")
 
-@app.get("/assets/uploadfile.png")
+@app.get("/assets/uploadimg.svg")
 async def read_image1():
-    image_path = "../../assets/uploadfile.png"
-    return FileResponse(image_path, media_type="image/png")
+    image_path = "../../assets/uploadimg.svg"
+    return FileResponse(image_path, media_type="image/svg+xml")
 
 
 # Serve image files
-@app.get("/assets/undopic.png")
+@app.get("/assets/undoimg.svg")
 async def read_image2():
-    image_path = "../../assets/undopic.png"
-    return FileResponse(image_path, media_type="image/png")
+    image_path = "../../assets/undoimg.svg"
+    return FileResponse(image_path, media_type="image/svg+xml")
 
 
 #let you share the file to the server to let anyone on the same network open the file
