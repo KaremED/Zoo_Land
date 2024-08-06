@@ -3,6 +3,10 @@
   box-sizing: border-box;
 }
 
+svg {
+  padding: 0;
+  margin: 0;
+}
 /* Body styling */
 body {
   background-color: #d6bd98;
@@ -72,7 +76,7 @@ body {
   width: 320px;
   margin-top: 50px;
   background-color: #40534c;
-  border-radius: 5px;
+  border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   border: 5px solid transparent;
   cursor: pointer;
@@ -81,9 +85,10 @@ body {
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
+  transition: 0.3s;
 }
 #mainPhotobox:hover {
-  border: 5px solid #1a3636;
+  background-color: #1a3636;
   transform: scale(1.05);
 }
 
@@ -107,6 +112,7 @@ body {
 #undoicon {
   position: absolute;
   left: 0;
+  transition: 0.4s;
 }
 #undoicon:hover {
   transform: scale(1.2);
@@ -152,4 +158,73 @@ body {
 }
 #responsetext strong {
   color: #d2d79f;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1024px) {
+  /* Tablet styles */
+  .container {
+    width: 90%;
+  }
+  .response-box {
+    width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Mobile styles */
+  .container {
+    width: 90%;
+  }
+  .response-box {
+    width: 90%;
+  }
+  #title {
+    font-size: 12vw;
+  }
+  .photobox,
+  #respPhotobox {
+    height: 200px;
+    max-width: 100%;
+  }
+  #upbutton {
+    font-size: 16px;
+    padding: 8px 16px;
+  }
+  #responsetext {
+    font-size: 16px;
+    padding: 15px;
+  }
+  #responseContainer {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Smaller mobile styles */
+  #title {
+    font-size: 14vw;
+  }
+  .photobox,
+  #respPhotobox {
+    height: 200px;
+    max-width: 100%;
+    box-sizing: content-box;
+  }
+  #upbutton {
+    font-size: 25px;
+    padding: 6px 12px;
+  }
+  #responsetext {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+  /* Ensure response container takes full width on smaller screens */
+  #responseContainer {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
 }
