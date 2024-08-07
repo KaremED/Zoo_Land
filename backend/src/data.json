@@ -7,19 +7,19 @@
     "type": "Domestic Dogs",
     "description": "A small, elegant dog breed known for its distinctive pushed-in face."
   },
-  "Classic Tabby": {
+  "Classic tabby": {
     "type": "Domestic Cat",
     "description": "Known for its bold, swirling patterns resembling a marble cake, with broad, curving bands on the body."
   },
-  "Mackerel Tabby": {
+  "Mackerel tabby": {
     "type": "Domestic Cat",
     "description": "Characterized by narrow, parallel stripes running vertically down the sides, giving it a tiger-like appearance."
   },
-  "Spotted Tabby": {
+  "Spotted tabby": {
     "type": "Domestic Cat",
     "description": "Features spots on its body, which may vary in size and shape, giving it a wildcat-like appearance."
   },
-  "Ticked Tabby": {
+  "Ticked tabby": {
     "type": "Domestic Cat",
     "description": "Lacks traditional stripes or spots, but has a 'salt-and-pepper' or 'sand-like' appearance due to bands of color on each hair."
   },
@@ -578,6 +578,42 @@
   "Siamese cat": {
     "type": "Domestic Cats",
     "description": "A domestic cat breed known for its striking blue eyes and vocal nature."
+  },
+  "Maine coon": {
+    "type": "Domestic Cat",
+    "description": "One of the largest domesticated cat breeds, known for its friendly personality and tufted ears."
+  },
+  "Ragdoll": {
+    "type": "Domestic Cat",
+    "description": "A breed known for its docile and placid temperament, with semi-long fur and striking blue eyes."
+  },
+  "Sphynx cat": {
+    "type": "Domestic Cat",
+    "description": "A hairless breed known for its wrinkled skin, large ears, and friendly nature."
+  },
+  "Abyssinian": {
+    "type": "Domestic Cat",
+    "description": "A short-haired breed with a distinctive ticked coat and a playful, active personality."
+  },
+  "British Shorthair": {
+    "type": "Domestic Cat",
+    "description": "A sturdy breed with a dense, plush coat and a round face, known for its calm and easygoing nature."
+  },
+  "Scottish Fold": {
+    "type": "Domestic Cat",
+    "description": "A breed known for its unique folded ears, round face, and sweet disposition."
+  },
+  "Bengal cat": {
+    "type": "Domestic Cat",
+    "description": "A breed with a wild appearance, featuring large spots and marbled patterns on its sleek coat."
+  },
+  "Siberian cat": {
+    "type": "Domestic Cat",
+    "description": "A large, long-haired breed with a thick, water-resistant coat and a friendly, playful nature."
+  },
+  "Tiger cat": {
+    "type": "Domestic cat",
+    "description": "A domestic cat with a coat pattern resembling a tiger's stripes, often characterized by bold, vertical stripes on its fur."
   },
   "Koala": {
     "type": "Other Mammals",

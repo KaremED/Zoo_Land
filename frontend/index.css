@@ -16,12 +16,47 @@ body {
   display: flex;
   flex-direction: column;
 }
+/* Navigation Bar Styling */
+.navbar {
+  font-family: Arial, sans-serif;
+  background-color: #40534c;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #d2d79f;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.navbar a:hover {
+  color: #ffffff;
+  transform: scale(1.1);
+}
 
 /* Title styling */
 #title {
   color: #40534c;
   text-align: center;
   font-size: 70px;
+  margin: auto;
+  margin-top: 10px;
 }
 
 /* Main box styling */
@@ -108,6 +143,16 @@ body {
   margin: 0;
   padding: 0;
 }
+#appDescription {
+  margin-top: 10px;
+  color: #d2d79f;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  max-width: 80%;
+  line-height: 1.5;
+}
 
 /* Undo icon styling */
 #undoicon {
@@ -165,6 +210,8 @@ body {
 /* Initial hidden state for response container */
 #responseContainer {
   display: none; /* Hidden by default */
+  height: auto;
+  padding: 8px;
 }
 
 /* Media queries for responsiveness */
@@ -195,7 +242,7 @@ body {
     max-width: 100%;
   }
   #upbutton {
-    font-size: 16px;
+    font-size: 20px;
     padding: 8px 16px;
   }
   #responsetext {
@@ -206,6 +253,7 @@ body {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    height: auto;
   }
 }
 
@@ -219,6 +267,7 @@ body {
     height: 200px;
     max-width: 100%;
     box-sizing: content-box;
+    width: 90%;
   }
   #upbutton {
     font-size: 25px;
@@ -233,6 +282,7 @@ body {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    height: auto;
   }
 }
 

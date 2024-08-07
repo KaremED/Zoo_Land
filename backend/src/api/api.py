@@ -16,10 +16,44 @@ app = FastAPI(
 async def read_index():
     return FileResponse("../../frontend/index.html")
 
+#Serve the about us page html + css
+@app.get("/about.html", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../frontend/about.html")
+
+@app.get("/about.css", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../frontend/about.css")
+
+#Serve the Team Pictures
+@app.get("/assets/Team/KaremED.JPG", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../assets/Team/KaremED.JPG")
+
+@app.get("/assets/Team/Algamody.JPG", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../assets/Team/Algamody.JPG")
+
+@app.get("/assets/Team/Moad.JPG", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../assets/Team/Moad.JPG")
+
+@app.get("/assets/Team/Grada.JPG", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../assets/Team/Grada.JPG")
+
+@app.get("/about.css", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../frontend/about.css")
+
 # Serve the CSS file
 @app.get("/index.css")
 async def read_css():
     return FileResponse("../../frontend/index.css", media_type="text/css")
+
+@app.get("/index.html")
+async def read_css():
+    return FileResponse("../../frontend/index.html")
 
 # Serve the JS file
 @app.get("/script.js")

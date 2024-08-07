@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d6bd98;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Navigation Bar Styling */
+.navbar {
+  background-color: #40534c;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #d2d79f;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.navbar a:hover {
+  color: #ffffff;
+  transform: scale(1.1);
+}
+
+/* Header and Navigation */
+header {
+  background-color: #40534c;
+  padding: 10px 0;
+}
+
+/* Main content styling */
+main {
+  padding: 10px;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.about-container h1 {
+  text-align: center;
+  color: #40534c;
+}
+
+.team-member {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.team-member h2 {
+  color: #40534c;
+  font-size: 24px;
+}
+
+.team-member p {
+  margin: 5px 0;
+}
+
+.team-member a {
+  color: #40534c;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  overflow: hidden;
+}
+
+.team-member a:hover {
+  text-decoration: underline;
+}
+
+.GithubImages {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0px;
+}
+.imglink {
+  display: inline-block;
+  margin: 0;
+  width: 20px;
+  height: 20px;
+}
+footer {
+  margin-top: 20px;
+  background-color: #40534c;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+}
