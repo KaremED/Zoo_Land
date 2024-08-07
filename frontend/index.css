@@ -38,11 +38,12 @@ body {
   position: relative;
   background-color: #677d6a;
   width: 800px;
-  height: 500px;
+  height: 520px;
   margin: auto;
   margin-top: 20px;
   border-radius: 5px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 2);
+  overflow: hidden;
 }
 
 /* Form styling */
@@ -141,7 +142,9 @@ body {
 
 /* Response text styling */
 #responsetext {
+  margin: 6px;
   margin-top: 20px;
+  margin-bottom: 5px;
   color: white;
   font-family: sans-serif;
   font-size: 18px;
@@ -158,6 +161,10 @@ body {
 }
 #responsetext strong {
   color: #d2d79f;
+}
+/* Initial hidden state for response container */
+#responseContainer {
+  display: none; /* Hidden by default */
 }
 
 /* Media queries for responsiveness */
@@ -226,5 +233,23 @@ body {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
   }
 }

@@ -55,13 +55,10 @@ document.getElementById("upbutton").addEventListener("click", function () {
 });
 
 // Function to handle the response and display the animal information
-function responseMethod(response) {
-  // Hide the main container and show the response container
+async function responseMethod(response) {
+  // Get the main and response containers
   let mainCont = document.getElementById("mainContainer");
-  mainCont.classList.add("hidden");
-
   let responseContainer = document.getElementById("responseContainer");
-  responseContainer.classList.remove("hidden");
 
   // Display the uploaded image in the response image element
   let fileInput = document.getElementById("fileInput");
@@ -73,7 +70,6 @@ function responseMethod(response) {
 
   // Populate the response text with animal information
   document.getElementById("animalName").textContent = response.name;
-  console.log(response.prob);
   let probability = response.prob * 100;
   document.getElementById("animalProbability").textContent =
     probability.toFixed(1) + "%";
@@ -81,13 +77,17 @@ function responseMethod(response) {
     response.description;
 
   console.log("Success:", response);
-  return 0;
+
+  // Hide the main container and show the response container
+  await fadeOut(mainCont);
+  await fadeIn(responseContainer);
 }
+
 // Function to reset the form and go back to the main page
-function resetForm() {
-  // Hide the response container and show the main container
-  document.getElementById("responseContainer").classList.add("hidden");
-  document.getElementById("mainContainer").classList.remove("hidden");
+async function resetForm() {
+  // Get the main and response containers
+  let mainCont = document.getElementById("mainContainer");
+  let responseContainer = document.getElementById("responseContainer");
 
   // Reset the file input and uploaded image display
   document.getElementById("fileInput").value = "";
@@ -100,6 +100,37 @@ function resetForm() {
   document.getElementById("animalName").textContent = "";
   document.getElementById("animalProbability").textContent = "";
   document.getElementById("animalDescription").textContent = "";
+  // Hide the response container and show the main container
+  await fadeOut(responseContainer);
+  await fadeIn(mainCont);
+}
+
+// Fade out animation function
+function fadeOut(target, duration = 500) {
+  return new Promise((resolve) => {
+    const animationEnded = () => {
+      target.style.display = "none";
+      target.onanimationend = null;
+      target.style.animation = null;
+      resolve();
+    };
+    target.onanimationend = animationEnded;
+    target.style.animation = `fade-out ${duration}ms 1`;
+  });
+}
+
+// Fade in animation function
+function fadeIn(target, duration = 500, display = "block") {
+  return new Promise((resolve) => {
+    const animationEnded = () => {
+      target.onanimationend = null;
+      target.style.animation = null;
+      resolve();
+    };
+    target.onanimationend = animationEnded;
+    target.style.display = display;
+    target.style.animation = `fade-in ${duration}ms 1`;
+  });
 }
 
 // Event listener for the undo icon to reset the form
