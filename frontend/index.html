@@ -8,6 +8,12 @@
     <title>Zoo Land</title>
   </head>
   <body>
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+      </ul>
+    </nav>
     <h1 id="title">Zoo Land</h1>
     <div class="main-box">
       <div class="container" id="mainContainer">
@@ -25,6 +31,10 @@
             <p id="upText">Upload Image</p>
           </div>
           <input id="upbutton" type="button" value="Check Image" />
+          <p id="appDescription">
+            Upload a clear animal photo to identify it and learn interesting
+            facts.
+          </p>
         </div>
       </div>
       <div class="response-box">
@@ -41,6 +51,7 @@
             </div>
             <!-- Response Text Section -->
             <div id="responsetext">
+              <p><strong>Type</strong> <br /><span id="animalType"></span></p>
               <p><strong>Name</strong> <br /><span id="animalName"></span></p>
               <p>
                 <strong>Probability</strong><br /><span

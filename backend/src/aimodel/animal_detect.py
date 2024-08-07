@@ -26,6 +26,7 @@ class AnimalDetect:
         animal: Tuple[str, str, float] = label[0][0]
         animal_name = animal[1].capitalize().replace('_',' ')
         return AnimalInfo(name=animal_name, 
+                          AnimalType=self.get_Type(animal_name),
                           prob=float(animal[2]), 
                           description=self.get_description(animal_name))
 
@@ -38,4 +39,13 @@ class AnimalDetect:
             })["description"]
 
         return description
-#image
+    
+    def get_Type(self, animal_name: str) -> str:
+        
+        with open("./data.json", '+br') as json_file:
+            data = json.load(json_file)
+            AnimalType = data.get(animal_name, {
+                'type': 'We cannot find this animal Type.'
+            })["type"]
+
+        return AnimalType
