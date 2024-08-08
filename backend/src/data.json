@@ -415,6 +415,10 @@
     "type": "Domestic Dogs",
     "description": "A giant breed known for its strength and rescue abilities."
   },
+  "Hippopotamus": {
+    "type": "Wild Animal",
+    "description": "A large, mostly herbivorous mammal native to sub-Saharan Africa, known for its massive size, barrel-shaped body, and semi-aquatic lifestyle."
+  },
   "Eskimo dog": {
     "type": "Domestic Dogs",
     "description": "A breed known for its thick coat and friendly nature."

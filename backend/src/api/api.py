@@ -26,9 +26,9 @@ async def read_index():
     return FileResponse("../../frontend/about.css")
 
 #Serve the Team Pictures
-@app.get("/assets/Team/KaremED.JPG", response_class=HTMLResponse)
+@app.get("/assets/Team/KaremED1.JPG", response_class=HTMLResponse)
 async def read_index():
-    return FileResponse("../../assets/Team/KaremED.JPG")
+    return FileResponse("../../assets/Team/KaremED1.JPG")
 
 @app.get("/assets/Team/Algamody.JPG", response_class=HTMLResponse)
 async def read_index():
@@ -94,6 +94,12 @@ async def process_image(file: UploadFile = File(...)) -> AnimalInfo:
         return {"error": str(e)}
     
 
-    ## add the image processing here
 
-#@app.get("/")
+#Serve fonts
+@app.get("/fonts/Fredoka-VariableFont_wdthwght.ttf", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../frontend/fonts/Fredoka-VariableFont_wdth,wght.ttf")
+
+@app.get("/fonts/LydoraKids.ttf", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../frontend/fonts/LydoraKids.ttf")

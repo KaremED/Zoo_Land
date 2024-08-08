@@ -3,6 +3,17 @@
   box-sizing: border-box;
 }
 
+/* websize Fonts */
+@font-face {
+  font-family: LydoraKids;
+  src: url(./fonts/LydoraKids.ttf);
+}
+
+@font-face {
+  font-family: Fredoka;
+  src: url(./fonts/Fredoka-VariableFont_wdthwght.ttf);
+}
+
 svg {
   padding: 0;
   margin: 0;
@@ -40,7 +51,7 @@ body {
 .navbar a {
   text-decoration: none;
   color: #d2d79f;
-  font-size: 18px;
+  font-size: 1rem;
   font-weight: bold;
   transition: color 0.3s, transform 0.3s;
 }
@@ -52,9 +63,10 @@ body {
 
 /* Title styling */
 #title {
+  font-family: LydoraKids, sans-serif;
   color: #40534c;
   text-align: center;
-  font-size: 70px;
+  font-size: 5rem;
   margin: auto;
   margin-top: 10px;
 }
@@ -89,7 +101,40 @@ body {
 }
 
 /* Button styling */
+/* From Uiverse.io by barisdogansutcu */
 #upbutton {
+  padding: 17px 40px;
+  border-radius: 50px;
+  cursor: pointer;
+  border: 0;
+  margin-top: 10px;
+  display: flex;
+  color: white;
+  background-color: #40534c;
+  box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-size: 15px;
+  transition: all 0.5s ease;
+}
+
+#upbutton:hover {
+  letter-spacing: 3px;
+  background-color: hsl(180, 35%, 16%);
+  color: hsl(0, 0%, 100%);
+  box-shadow: rgb(26, 54, 54) 0px 7px 29px 0px;
+}
+
+#upbutton:active {
+  letter-spacing: 3px;
+  background-color: hsl(180, 35%, 16%);
+  color: hsl(0, 0%, 100%);
+  box-shadow: rgb(26, 54, 54) 0px 0px 0px 0px;
+  transform: scale(0.9);
+  transition: 200ms;
+}
+
+/* #upbutton {
   background-color: #40534c;
   border: none;
   color: white;
@@ -99,12 +144,13 @@ body {
   margin-top: 20px;
   display: flex;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 1.2rem;
+  font-family: Fredoka;
 }
 #upbutton:hover {
   background-color: #1a3636;
   transform: scale(1.05);
-}
+} */
 
 /* Photobox styling */
 .photobox {
@@ -122,10 +168,12 @@ body {
   justify-content: center;
   align-items: center;
   transition: 0.3s;
+  transition: all 0.5s ease;
 }
 #mainPhotobox:hover {
   background-color: #1a3636;
   transform: scale(1.05);
+  box-shadow: rgb(26, 54, 54) 0px 7px 29px 0px;
 }
 
 /* Response photobox styling */
@@ -144,11 +192,11 @@ body {
   padding: 0;
 }
 #appDescription {
+  font-family: Fredoka;
   margin-top: 10px;
   color: #d2d79f;
-  font-family: "Arial", sans-serif;
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 1rem;
+  font-weight: normal;
   text-align: center;
   max-width: 80%;
   line-height: 1.5;
@@ -176,8 +224,8 @@ body {
   padding: 0;
   text-align: center;
   color: white;
-  font-family: sans-serif;
-  font-size: 18px;
+  font-family: Fredoka;
+  font-size: 1.2rem;
 }
 
 /* File input styling */
@@ -192,7 +240,7 @@ body {
   margin-bottom: 5px;
   color: white;
   font-family: sans-serif;
-  font-size: 18px;
+  font-size: 1.2rem;
   text-align: center;
   padding: 20px;
   border-radius: 5px;
@@ -242,11 +290,11 @@ body {
     max-width: 100%;
   }
   #upbutton {
-    font-size: 20px;
+    font-size: 1.3rem;
     padding: 8px 16px;
   }
   #responsetext {
-    font-size: 16px;
+    font-size: 1rem;
     padding: 15px;
   }
   #responseContainer {
@@ -270,11 +318,12 @@ body {
     width: 90%;
   }
   #upbutton {
-    font-size: 25px;
+    font-size: 1.2rem;
     padding: 6px 12px;
+    margin-top: 1rem;
   }
   #responsetext {
-    font-size: 16px;
+    font-size: 1rem;
     padding-bottom: 5px;
   }
   /* Ensure response container takes full width on smaller screens */
