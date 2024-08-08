@@ -34,11 +34,7 @@ document.getElementById("upbutton").addEventListener("click", function () {
 
   // Create and configure the XMLHttpRequest to upload the image
   const xhr = new XMLHttpRequest();
-  xhr.open(
-    "POST",
-    "https://d068-156-38-50-192.ngrok-free.app/zoo_land/process/image",
-    true
-  );
+  xhr.open("POST", "http://localhost:8000/zoo_land/process/image", true);
 
   // Event listener for the XMLHttpRequest state change
   xhr.onreadystatechange = function () {
