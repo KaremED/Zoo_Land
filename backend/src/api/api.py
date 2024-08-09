@@ -16,14 +16,24 @@ app = FastAPI(
 async def read_index():
     return FileResponse("../../frontend/index.html")
 
-#Serve the about us page html + css
+#Serve html files
 @app.get("/about.html", response_class=HTMLResponse)
 async def read_index():
     return FileResponse("../../frontend/about.html")
 
+@app.get("/index.html")
+async def read_css():
+    return FileResponse("../../frontend/index.html")
+
+# Serve the CSS files
+@app.get("/index.css")
+async def read_css():
+    return FileResponse("../../frontend/index.css", media_type="text/css")
+
 @app.get("/about.css", response_class=HTMLResponse)
 async def read_index():
     return FileResponse("../../frontend/about.css")
+
 
 #Serve the Team Pictures
 @app.get("/assets/Team/KaremED1.JPG", response_class=HTMLResponse)
@@ -42,34 +52,23 @@ async def read_index():
 async def read_index():
     return FileResponse("../../assets/Team/Grada.JPG")
 
-@app.get("/about.css", response_class=HTMLResponse)
-async def read_index():
-    return FileResponse("../../frontend/about.css")
-
-# Serve the CSS file
-@app.get("/index.css")
-async def read_css():
-    return FileResponse("../../frontend/index.css", media_type="text/css")
-
-@app.get("/index.html")
-async def read_css():
-    return FileResponse("../../frontend/index.html")
 
 # Serve the JS file
 @app.get("/script.js")
 async def read_js():
     return FileResponse("../../frontend/script.js", media_type="application/javascript")
 
-@app.get("/assets/uploadimg.svg")
-async def read_image1():
-    image_path = "../../assets/uploadimg.svg"
-    return FileResponse(image_path, media_type="image/svg+xml")
 
 
 # Serve image files
 @app.get("/assets/undoimg.svg")
 async def read_image2():
     image_path = "../../assets/undoimg.svg"
+    return FileResponse(image_path, media_type="image/svg+xml")
+
+@app.get("/assets/uploadimg.svg")
+async def read_image1():
+    image_path = "../../assets/uploadimg.svg"
     return FileResponse(image_path, media_type="image/svg+xml")
 
 
@@ -103,3 +102,8 @@ async def read_index():
 @app.get("/fonts/LydoraKids.ttf", response_class=HTMLResponse)
 async def read_index():
     return FileResponse("../../frontend/fonts/LydoraKids.ttf")
+
+#Serve favicon
+@app.get("/assets/icon/favicon.ico", response_class=HTMLResponse)
+async def read_index():
+    return FileResponse("../../assets/icon/favicon.ico")
