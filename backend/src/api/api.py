@@ -1,5 +1,5 @@
 import io
-#imported api from fastapi and imported 
+
 from fastapi import FastAPI, HTTPException, UploadFile, File
 from PIL import Image
 from fastapi.responses import FileResponse, HTMLResponse

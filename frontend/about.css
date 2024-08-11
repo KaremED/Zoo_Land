@@ -1,10 +1,15 @@
+@font-face {
+  font-family: Fredoka;
+  src: url(./fonts/Fredoka.ttf);
+}
+
 * {
   box-sizing: border-box;
 }
 
 /* Body styling */
 body {
-  font-family: Arial, sans-serif;
+  font-family: Fredoka, sans-serif;
   background-color: #d6bd98;
   margin: 0;
   padding: 0;
@@ -14,6 +19,7 @@ body {
 /* Navigation Bar Styling */
 .navbar {
   background-color: #40534c;
+  font-family: Arial, sans-serif;
   padding: 10px 20px;
   display: flex;
   justify-content: center;

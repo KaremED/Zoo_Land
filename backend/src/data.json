@@ -23,11 +23,11 @@
     "type": "Domestic Cat",
     "description": "Lacks traditional stripes or spots, but has a 'salt-and-pepper' or 'sand-like' appearance due to bands of color on each hair."
   },
-  "Patched Tabby": {
+  "Patched tabby": {
     "type": "Domestic Cat",
     "description": "Also known as the 'Tortoiseshell Tabby,' it has patches of tabby patterns mixed with other colors, often red or orange."
   },
-  "Tabby Point": {
+  "Tabby point": {
     "type": "Domestic Cat",
     "description": "A color-pointed cat with tabby patterns on the points (face, ears, paws, and tail), often seen in breeds like the Siamese."
   },
@@ -39,13 +39,201 @@
     "type": "Domestic Dogs",
     "description": "A toy breed known for its long, silky white coat."
   },
+  "Capuchin monkey": {
+    "type": "Primate",
+    "description": "A small, intelligent New World monkey known for its tool use and adaptability, found in Central and South America."
+  },
+  "Spider monkey": {
+    "type": "Primate",
+    "description": "A New World monkey known for its long limbs and prehensile tail, found in tropical forests of Central and South America."
+  },
+  "Squirrel monkey": {
+    "type": "Primate",
+    "description": "A small New World monkey with a distinctive short tail, known for its agility and social behavior, found in the forests of Central and South America."
+  },
+  "Colobus monkey": {
+    "type": "Primate",
+    "description": "An Old World monkey known for its black and white fur and specialized stomach for digesting leaves, found in African forests."
+  },
+  "Proboscis monkey": {
+    "type": "Primate",
+    "description": "Known for its large nose and distinctive pot-bellied appearance, this monkey is native to the mangroves and forests of Borneo."
+  },
+  "Swallow": {
+    "type": "Bird",
+    "description": "A small, agile bird known for its graceful flight and swift aerial maneuvers, often seen near water and open fields."
+  },
+  "Red-tailed hawk": {
+    "type": "Bird",
+    "description": "A large raptor known for its distinctive red tail and broad wings, commonly found in open fields and wooded areas."
+  },
+  "American robin": {
+    "type": "Bird",
+    "description": "A common bird with a bright red breast and melodious song, found in gardens, woodlands, and open fields across North America."
+  },
+  "Pigeon": {
+    "type": "Bird",
+    "description": "A common bird found in urban and rural areas, known for its cooing sound and adaptability to various environments."
+  },
+  "Parrot": {
+    "type": "Bird",
+    "description": "A colorful bird known for its intelligence, mimicry abilities, and strong beak, found in tropical and subtropical regions."
+  },
+  "Eagle": {
+    "type": "Bird",
+    "description": "A large bird of prey known for its powerful build, keen eyesight, and hunting prowess, found in various parts of the world."
+  },
+  "Seagull": {
+    "type": "Bird",
+    "description": "A common coastal bird known for its scavenging behavior and distinctive call, found near oceans, lakes, and rivers."
+  },
+  "Canary": {
+    "type": "Bird",
+    "description": "A small, brightly colored songbird known for its melodious singing, native to the Canary Islands and other parts of the world."
+  },
+  "Finch": {
+    "type": "Bird",
+    "description": "A small, seed-eating bird known for its colorful plumage and melodic song, found in a variety of habitats."
+  },
+  "Wren": {
+    "type": "Bird",
+    "description": "A small, agile bird with a distinctive tail and melodious song, often found in gardens and woodlands."
+  },
+  "Bluejay": {
+    "type": "Bird",
+    "description": "A brightly colored bird with blue plumage and a distinctive call, found in North American forests and woodlands."
+  },
+  "Hawk-Eagle": {
+    "type": "Bird",
+    "description": "A large bird of prey known for its powerful build and hunting skills, found in tropical and subtropical regions."
+  },
+  "Cuckoo": {
+    "type": "Bird",
+    "description": "A bird known for its distinctive call and brood parasitism, where it lays eggs in the nests of other bird species."
+  },
+  "Peacock": {
+    "type": "Bird",
+    "description": "A large bird known for its vibrant, iridescent plumage and elaborate courtship display, native to South Asia."
+  },
+  "Dodo": {
+    "type": "Bird",
+    "description": "An extinct flightless bird native to Mauritius, known for its large size and unique appearance, which became extinct in the 17th century."
+  },
+  "Kookaburra": {
+    "type": "Bird",
+    "description": "A large, laughing bird native to Australia and New Guinea, known for its distinctive, loud call resembling human laughter."
+  },
+  "Secretarybird": {
+    "type": "Bird",
+    "description": "A large bird of prey with long legs and a distinctive crest, native to Africa, known for its hunting of snakes and other prey."
+  },
+  "Hoatzin": {
+    "type": "Bird",
+    "description": "A unique bird native to the Amazon rainforest, known for its distinctive smell and claws on its wings during the juvenile stage."
+  },
   "Pekinese": {
     "type": "Domestic Dogs",
     "description": "A small, lion-like dog breed with a flat face and long fur."
   },
-  "Shih-Tzu": {
+  "Shih-tzu": {
     "type": "Domestic Dogs",
     "description": "A toy breed known for its long, flowing double coat."
+  },
+  "Sorrel": {
+    "type": "Horse",
+    "description": "A horse with a reddish-brown coat and a mane and tail that are usually the same color or slightly lighter. This color is common among various horse breeds and is characterized by a rich, warm hue."
+  },
+  "Arabian horse": {
+    "type": "Horse",
+    "description": "One of the oldest and most recognizable horse breeds, known for its stamina, endurance, and distinctive head shape."
+  },
+  "Clydesdale": {
+    "type": "Horse",
+    "description": "A large draft horse breed known for its strength, calm demeanor, and distinctive feathering on the legs."
+  },
+  "Shetland pony": {
+    "type": "Horse",
+    "description": "A small and sturdy pony breed from the Shetland Islands, known for its strength, adaptability, and gentle nature."
+  },
+  "Draft horse": {
+    "type": "Horse",
+    "description": "A type of heavy horse bred for its strength and ability to perform heavy work, including breeds like the Clydesdale and Percheron."
+  },
+  "Thoroughbred": {
+    "type": "Horse",
+    "description": "A breed known for its speed and agility, commonly associated with horse racing and competitive sports."
+  },
+  "Quarter horse": {
+    "type": "Horse",
+    "description": "A breed known for its versatility and quick acceleration over short distances, often used in rodeo events and ranch work."
+  },
+  "Appaloosa": {
+    "type": "Horse",
+    "description": "A breed recognized for its unique spotted coat patterns and versatility in various equestrian disciplines."
+  },
+  "Warmblood": {
+    "type": "Horse",
+    "description": "A type of horse breed known for its athleticism and suitability for dressage, show jumping, and other sports."
+  },
+  "Pony": {
+    "type": "Horse",
+    "description": "A general term for small horses, typically under 14.2 hands high, including various breeds like the Shetland and Welsh ponies."
+  },
+  "Mustang": {
+    "type": "Horse",
+    "description": "A free-roaming horse breed descended from Spanish horses, known for its hardiness and adaptability to the wild."
+  },
+  "Fjord horse": {
+    "type": "Horse",
+    "description": "A small, strong horse breed from Norway, known for its unique mane and its ability to work in various terrains."
+  },
+  "Haflinger": {
+    "type": "Horse",
+    "description": "A small to medium-sized horse breed from Austria and Italy, known for its golden coat and calm, friendly nature."
+  },
+  "Gypsy Vanner": {
+    "type": "Horse",
+    "description": "A breed known for its striking appearance, including long, flowing manes and feathered legs, originally bred by the Romani people."
+  },
+  "Tennessee Walking Horse": {
+    "type": "Horse",
+    "description": "A breed known for its smooth, comfortable gait and calm demeanor, often used in trail riding and horse shows."
+  },
+  "Icelandic horse": {
+    "type": "Horse",
+    "description": "A small, hardy horse breed from Iceland, known for its unique gait and ability to endure harsh weather conditions."
+  },
+  "Standardbred": {
+    "type": "Horse",
+    "description": "A breed known for its speed in harness racing and trotting, often used in both racing and driving competitions."
+  },
+  "Belgian horse": {
+    "type": "Horse",
+    "description": "A large draft horse breed known for its strength and gentle temperament, often used in heavy farm work and logging."
+  },
+  "Percheron": {
+    "type": "Horse",
+    "description": "A large draft horse breed from France, known for its strength, versatility, and calm demeanor, often used for heavy work and driving."
+  },
+  "Akhal-Teke": {
+    "type": "Horse",
+    "description": "An ancient breed known for its speed, endurance, and unique metallic sheen, originating from Turkmenistan."
+  },
+  "Knabstrupper": {
+    "type": "Horse",
+    "description": "A breed known for its distinctive coat patterns, including spots and dapples, and its versatility in various equestrian disciplines."
+  },
+  "Orlov Trotter": {
+    "type": "Horse",
+    "description": "A breed from Russia known for its speed and endurance in trotting races, as well as its graceful appearance."
+  },
+  "Dales Pony": {
+    "type": "Horse",
+    "description": "A strong, versatile pony breed from England, known for its stamina and suitability for work and riding."
+  },
+  "Welsh Pony": {
+    "type": "Horse",
+    "description": "A breed from Wales known for its versatility, including various sizes and types, used for riding, driving, and work."
   },
   "Blenheim spaniel": {
     "type": "Domestic Dogs",
@@ -139,11 +327,103 @@
     "type": "Domestic Dogs",
     "description": "A large breed known for its distinctive gray coat and hunting skills."
   },
+  "Grizzly bear": {
+    "type": "Wild Animal",
+    "description": "A subspecies of the brown bear found in North America, known for its large size, distinctive hump on its shoulders, and powerful build."
+  },
+  "Polar bear": {
+    "type": "Wild Animal",
+    "description": "A large bear species native to the Arctic region, known for its white fur, which provides camouflage in its snowy habitat."
+  },
+  "Ice bear": {
+    "type": "Wild Animal",
+    "description": "Also known as the polar bear, this large bear species is native to the Arctic region, known for its white fur and dependence on sea ice for hunting seals."
+  },
+  "American black bear": {
+    "type": "Wild Animal",
+    "description": "A medium-sized bear native to North America, known for its varied coat colors ranging from black to brown and even white."
+  },
+  "Crocodile": {
+    "type": "Reptile",
+    "description": "A large, aggressive reptile found in freshwater habitats, known for its powerful jaws, tough hide, and ambush hunting style."
+  },
+  "Alligator": {
+    "type": "Reptile",
+    "description": "A large reptile similar to a crocodile but with a broader snout, found in freshwater environments in the southeastern United States and China."
+  },
+  "Monitor lizard": {
+    "type": "Reptile",
+    "description": "A large lizard found in Africa, Asia, and Australia, known for its elongated body, sharp claws, and carnivorous diet."
+  },
+  "African chameleon": {
+    "type": "Reptile",
+    "description": "A type of chameleon native to Africa, known for its ability to change color, independently moving eyes, and long, sticky tongue used for catching insects."
+  },
+  "Lesser panda": {
+    "type": "Wild Animal",
+    "description": "Also known as the red panda, this small arboreal mammal is native to the eastern Himalayas and southwestern China. It is known for its reddish-brown fur, bushy tail, and raccoon-like appearance."
+  },
+  "Brown bear": {
+    "type": "Wild Animal",
+    "description": "A large bear species found in Eurasia and North America, known for its powerful build and varied diet."
+  },
+  "Asian black bear": {
+    "type": "Wild Animal",
+    "description": "A medium-sized bear found in Asia, known for its black fur and a distinctive white patch on its chest."
+  },
+  "Sloth bear": {
+    "type": "Wild Animal",
+    "description": "A bear native to the Indian subcontinent, known for its shaggy coat, long claws, and diet primarily consisting of insects like termites and ants."
+  },
+  "Zebra": {
+    "type": "Wild Animal",
+    "description": "Known for its distinctive black and white striped coat, zebras are social animals that live in groups and are found in various African landscapes."
+  },
+  "African buffalo": {
+    "type": "Wild Animal",
+    "description": "A large, powerful bovid with distinctive curved horns, found in savannas and grasslands of Africa."
+  },
+  "Rhinoceros": {
+    "type": "Wild Animal",
+    "description": "A large herbivorous mammal with thick skin and one or two horns on its snout, found in savannas and forests."
+  },
+  "Nile crocodile": {
+    "type": "Wild Animal",
+    "description": "A large and aggressive reptile found in freshwater habitats across Africa, known for its powerful jaws and ambush hunting style."
+  },
+  "Wildebeest": {
+    "type": "Wild Animal",
+    "description": "Also known as gnus, they are large antelopes with distinctive curved horns and shaggy manes, known for their migratory behavior in the African savanna."
+  },
+  "Hyena": {
+    "type": "Wild Animal",
+    "description": "A carnivorous mammal known for its strong jaws and scavenging habits, found in savannas, grasslands, and forests."
+  },
+  "African wild dog": {
+    "type": "Wild Animal",
+    "description": "Also known as the painted wolf, it is a highly social carnivore with a unique coat pattern, known for its cooperative hunting strategies."
+  },
+  "Hare": {
+    "type": "Wild Animal",
+    "description": "A fast-moving, long-eared mammal found in various regions worldwide, known for its powerful hind legs and ability to run at high speeds to escape predators."
+  },
+  "Sun bear": {
+    "type": "Wild Animal",
+    "description": "The smallest bear species, native to the tropical forests of Southeast Asia, known for its short black fur and a distinct white or yellow chest patch."
+  },
+  "Spectacled bear": {
+    "type": "Wild Animal",
+    "description": "Also known as the Andean bear, it is native to the Andes Mountains of South America, known for its distinctive facial markings resembling glasses."
+  },
+  "Panda bear": {
+    "type": "Wild Animal",
+    "description": "Commonly known as the giant panda, this bear is native to central China and is recognized for its black-and-white coat and bamboo diet."
+  },
   "Staffordshire bullterrier": {
     "type": "Domestic Dogs",
     "description": "A medium-sized breed known for its strength and loyalty."
   },
-  "American Staffordshire terrier": {
+  "American staffordshire terrier": {
     "type": "Domestic Dogs",
     "description": "A breed known for its muscular build and friendly nature."
   },
@@ -166,6 +446,30 @@
   "Norfolk terrier": {
     "type": "Domestic Dogs",
     "description": "A small breed known for its friendly nature and hunting skills."
+  },
+  "Anglerfish": {
+    "type": "Fish",
+    "description": "A deep-sea fish known for its bioluminescent lure used to attract prey in the dark depths of the ocean."
+  },
+  "Manatee": {
+    "type": "Mammal",
+    "description": "A large, gentle marine mammal also known as the sea cow, found in warm coastal waters and rivers, known for its slow movement and herbivorous diet."
+  },
+  "Cuttlefish": {
+    "type": "Cephalopod",
+    "description": "A cephalopod mollusk known for its ability to change color and its unique cuttlebone, found in shallow and deep ocean waters."
+  },
+  "Coral": {
+    "type": "Cnidarian",
+    "description": "A marine invertebrate that forms coral reefs, known for its calcium carbonate skeleton and role in creating diverse underwater ecosystems."
+  },
+  "Manta ray": {
+    "type": "Fish",
+    "description": "A large, gentle ray known for its distinctive wing-like pectoral fins, found in tropical and subtropical oceans, and known for its graceful swimming."
+  },
+  "Squid": {
+    "type": "Cephalopod",
+    "description": "A cephalopod mollusk similar to the octopus but with a streamlined body and multiple arms, known for its ink defense mechanism and agile swimming."
   },
   "Norwich terrier": {
     "type": "Domestic Dogs",
@@ -235,7 +539,7 @@
     "type": "Domestic Dogs",
     "description": "A medium-sized breed known for its soft, wavy coat."
   },
-  "West Highland white terrier": {
+  "West highland white terrier": {
     "type": "Domestic Dogs",
     "description": "A small breed known for its white coat and confident personality."
   },
@@ -339,7 +643,7 @@
     "type": "Domestic Dogs",
     "description": "A large breed known for its distinctive corded coat."
   },
-  "Old English sheepdog": {
+  "Old english sheepdog": {
     "type": "Domestic Dogs",
     "description": "A breed known for its long, shaggy coat and friendly nature."
   },
@@ -375,7 +679,7 @@
     "type": "Domestic Dogs",
     "description": "A small breed known for its energetic personality."
   },
-  "Greater Swiss Mountain dog": {
+  "Greater swiss mountain dog": {
     "type": "Domestic Dogs",
     "description": "A large breed known for its strength and versatility."
   },
@@ -411,7 +715,7 @@
     "type": "Domestic Dogs",
     "description": "A giant breed known for its height and gentle nature."
   },
-  "Saint Bernard": {
+  "Saint bernard": {
     "type": "Domestic Dogs",
     "description": "A giant breed known for its strength and rescue abilities."
   },
@@ -507,7 +811,7 @@
     "type": "Domestic Dogs",
     "description": "A giant breed known for its strength and swimming abilities."
   },
-  "Great Pyrenees": {
+  "Great pyrenees": {
     "type": "Domestic Dogs",
     "description": "A large breed known for its protective nature and thick white coat."
   },
@@ -599,7 +903,7 @@
     "type": "Domestic Cat",
     "description": "A short-haired breed with a distinctive ticked coat and a playful, active personality."
   },
-  "British Shorthair": {
+  "British shorthair": {
     "type": "Domestic Cat",
     "description": "A sturdy breed with a dense, plush coat and a round face, known for its calm and easygoing nature."
   },
